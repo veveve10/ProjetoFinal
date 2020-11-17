@@ -1,0 +1,1 @@
+Os numeros 10 e 15 significa que durante o treinamento o modelo tinha acesso a 10/15 notas antes da que ele tentou prever
